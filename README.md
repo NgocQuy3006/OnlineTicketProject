@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎫 TicketBox Clone - Hệ thống đặt vé sự kiện trực tuyến
 
 ## 📋 Mô tả
@@ -148,3 +149,6 @@ OnlineTicketProject/
 
 ## 📄 License
 © 2024 TicketBox Clone. Tất cả quyền được bảo lưu.
+=======
+# OnlineTicketProject
+>>>>>>> 1e7771efa7dd879983c7aebfbb55e5548ce7fd07
